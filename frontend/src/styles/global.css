@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #f5f7fa;
+}
+
+.title {
+  text-align: center;
+  padding: 20px;
+}
+
+.card {
+  background: white;
+  margin: 10px auto;
+  padding: 15px;
+  max-width: 400px;
+  border-radius: 8px;
+}
+
+.status {
+  font-weight: bold;
+}
